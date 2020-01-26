@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>First Post</title>
+    <url>/2020/01/26/First-Post/</url>
+    <content><![CDATA[<p>　　这个博客建立于2020年春节，正月初一基本搭建完成，初二发布这篇可有可无的随笔。  </p>
+<p>　　这是一个基于 hexo + GitHub Pages 的静态博客。原本考虑过用 WordPress 搭建，但是手头的阿里云服务器性能羸弱，恐怕不能稳定运行（即使能，也是又慢又卡）。现在这个服务器上挂着一个<a href="http://www.gnohz.top" target="_blank" rel="noopener">完成度接近于0的互动小说</a>，同时充当我个人的 Tiny Tiny RSS 服务器。<del>由于负担不起两个域名，</del>预计在未来这个博客也要通过 gnohz.top 域名来访问。</p>
+<p>　　其实在2019年10月，我已经用与现在相同的方法建过一次博客。但是在学校里实在太忙，搭建起来以后并没有时间写博文，<del>在我一次手贱把 GitHub Pages 的库改成私有库以后，</del>那个博客就彻底废了。  </p>
+<p>　　为什么要折腾博客呢？自己在学习时总是浅尝辄止；而忙碌的生活使这一缺点愈发明显。我想以写博文为契机，静下心来，审视自己所学的东西和所做的事。　　</p>
+<p>　　希望不再以＂忙碌＂为借口浑浑噩噩地混下去吧。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>胡言乱语</tag>
+      </tags>
+  </entry>
+</search>
