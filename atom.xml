@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.gnohz.xyz/"/>
-  <updated>2020-01-24T03:46:49.075Z</updated>
+  <updated>2020-01-26T15:29:08.394Z</updated>
   <id>http://www.gnohz.xyz/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Post</title>
+    <link href="http://www.gnohz.xyz/2020/01/26/First-Post/"/>
+    <id>http://www.gnohz.xyz/2020/01/26/First-Post/</id>
+    <published>2020-01-26T13:43:19.000Z</published>
+    <updated>2020-01-26T15:29:08.394Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;　　这个博客建立于2020年春节，正月初一基本搭建完成，初二发布这篇可有可无的随笔。  &lt;/p&gt;
+&lt;p&gt;　　这是一个基于 hexo + GitHub Pages 的静态博客。原本考虑过用 WordPress
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://www.gnohz.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="胡言乱语" scheme="http://www.gnohz.xyz/tags/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
